@@ -7,7 +7,7 @@ package gl
 import (
 	"fmt"
 
-	"github.com/goxjs/gl"
+	"github.com/mmogo/gl"
 )
 
 type uniformBindings map[string]interface{}

@@ -5,7 +5,7 @@
 package outer
 
 import (
-	"github.com/nelsam/gxui/math"
+	"github.com/mmogo/gxui/math"
 )
 
 type Sized interface {

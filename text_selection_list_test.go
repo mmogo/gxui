@@ -4,10 +4,11 @@
 
 package gxui
 
-import test "github.com/nelsam/gxui/testing"
+import test "github.com/mmogo/gxui/testing"
 import (
-	"github.com/nelsam/gxui/interval"
 	"testing"
+
+	"github.com/mmogo/gxui/interval"
 )
 
 func TestTextSelectionMergeOne(t *testing.T) {

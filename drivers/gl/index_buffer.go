@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/goxjs/gl"
+	"github.com/mmogo/gl"
 )
 
 type indexBuffer struct {

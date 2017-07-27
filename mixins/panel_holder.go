@@ -7,9 +7,9 @@ package mixins
 import (
 	"fmt"
 
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/math"
-	"github.com/nelsam/gxui/mixins/base"
+	"github.com/mmogo/gxui"
+	"github.com/mmogo/gxui/math"
+	"github.com/mmogo/gxui/mixins/base"
 )
 
 type PanelTab interface {

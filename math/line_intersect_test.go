@@ -4,7 +4,7 @@
 
 package math
 
-import test "github.com/nelsam/gxui/testing"
+import test "github.com/mmogo/gxui/testing"
 import (
 	"testing"
 )

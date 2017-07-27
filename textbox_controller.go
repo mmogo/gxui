@@ -9,8 +9,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/nelsam/gxui/interval"
-	"github.com/nelsam/gxui/math"
+	"github.com/mmogo/gxui/interval"
+	"github.com/mmogo/gxui/math"
 )
 
 type TextBoxEdit struct {
@@ -340,7 +340,7 @@ func (t *TextBoxController) indexDown(i, stored int) int {
 	if line < t.LineCount()-1 {
 		return math.Min(t.LineStart(line+1)+x, t.LineEnd(line+1))
 	}
-	return math.Max(len(t.text) - 1,0)
+	return math.Max(len(t.text)-1, 0)
 }
 
 func (t *TextBoxController) IndexHome(sel TextSelection) TextSelection {

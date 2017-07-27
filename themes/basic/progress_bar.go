@@ -7,9 +7,9 @@ package basic
 import (
 	"time"
 
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/math"
-	"github.com/nelsam/gxui/mixins"
+	"github.com/mmogo/gxui"
+	"github.com/mmogo/gxui/math"
+	"github.com/mmogo/gxui/mixins"
 )
 
 type ProgressBar struct {

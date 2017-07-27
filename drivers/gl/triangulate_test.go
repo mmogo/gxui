@@ -4,9 +4,9 @@
 
 package gl
 
-import test "github.com/nelsam/gxui/testing"
+import test "github.com/mmogo/gxui/testing"
 import (
-	"github.com/nelsam/gxui/math"
+	"github.com/mmogo/gxui/math"
 	"testing"
 )
 

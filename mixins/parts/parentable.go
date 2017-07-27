@@ -5,7 +5,7 @@
 package parts
 
 import (
-	"github.com/nelsam/gxui"
+	"github.com/mmogo/gxui"
 )
 
 type ParentableOuter interface{}

@@ -9,7 +9,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/goxjs/gl"
+	"github.com/mmogo/gl"
 )
 
 type vertexStream struct {

@@ -5,7 +5,7 @@
 package basic
 
 import (
-	"github.com/nelsam/gxui"
+	"github.com/mmogo/gxui"
 )
 
 type Theme struct {

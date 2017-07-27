@@ -5,9 +5,9 @@
 package gl
 
 import (
-	"github.com/nelsam/gxui"
+	"github.com/mmogo/gxui"
 
-	"github.com/goxjs/glfw"
+	"github.com/mmogo/glfw"
 )
 
 func translateKeyboardKey(in glfw.Key) gxui.KeyboardKey {

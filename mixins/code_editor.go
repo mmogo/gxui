@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/math"
+	"github.com/mmogo/gxui"
+	"github.com/mmogo/gxui/math"
 )
 
 type CodeEditorOuter interface {

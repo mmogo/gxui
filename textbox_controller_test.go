@@ -6,8 +6,9 @@ package gxui
 
 import (
 	"fmt"
-	test "github.com/nelsam/gxui/testing"
 	"testing"
+
+	test "github.com/mmogo/gxui/testing"
 )
 
 func parseTBC(markup string) *TextBoxController {

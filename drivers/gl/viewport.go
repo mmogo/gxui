@@ -10,11 +10,11 @@ import (
 	"unicode"
 
 	glfw32 "github.com/go-gl/glfw/v3.2/glfw"
-	"github.com/goxjs/gl"
-	"github.com/goxjs/glfw"
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/drivers/gl/platform"
-	"github.com/nelsam/gxui/math"
+	"github.com/mmogo/gl"
+	"github.com/mmogo/glfw"
+	"github.com/mmogo/gxui"
+	"github.com/mmogo/gxui/drivers/gl/platform"
+	"github.com/mmogo/gxui/math"
 )
 
 const viewportDebugEnabled = false

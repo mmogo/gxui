@@ -5,8 +5,8 @@
 package parts
 
 import (
-	"github.com/nelsam/gxui/math"
-	"github.com/nelsam/gxui/mixins/outer"
+	"github.com/mmogo/gxui/math"
+	"github.com/mmogo/gxui/mixins/outer"
 )
 
 type PaddableOuter interface {

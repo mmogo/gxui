@@ -4,7 +4,7 @@
 
 package gl
 
-import "github.com/goxjs/gl"
+import "github.com/mmogo/gl"
 
 type shape struct {
 	vb       *vertexBuffer

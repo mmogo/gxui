@@ -5,9 +5,9 @@
 package base
 
 import (
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/mixins/outer"
-	"github.com/nelsam/gxui/mixins/parts"
+	"github.com/mmogo/gxui"
+	"github.com/mmogo/gxui/mixins/outer"
+	"github.com/mmogo/gxui/mixins/parts"
 )
 
 type ContainerNoControlOuter interface {

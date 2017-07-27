@@ -7,9 +7,9 @@ package light
 import (
 	"fmt"
 
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/gxfont"
-	"github.com/nelsam/gxui/themes/basic"
+	"github.com/mmogo/gxui"
+	"github.com/mmogo/gxui/gxfont"
+	"github.com/mmogo/gxui/themes/basic"
 )
 
 func CreateTheme(driver gxui.Driver) gxui.Theme {

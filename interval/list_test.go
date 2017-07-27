@@ -5,8 +5,9 @@
 package interval
 
 import (
-	test "github.com/nelsam/gxui/testing"
 	"math/rand"
+
+	test "github.com/mmogo/gxui/testing"
 )
 import "testing"
 

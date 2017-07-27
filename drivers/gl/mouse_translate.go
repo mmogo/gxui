@@ -7,9 +7,9 @@ package gl
 import (
 	"fmt"
 
-	"github.com/nelsam/gxui"
+	"github.com/mmogo/gxui"
 
-	"github.com/goxjs/glfw"
+	"github.com/mmogo/glfw"
 )
 
 func translateMouseButton(button glfw.MouseButton) gxui.MouseButton {
